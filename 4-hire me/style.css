@@ -1,0 +1,137 @@
+*{
+    background-color: #030303;
+    
+}
+.one{
+    position:relative;
+    width: 100%;
+    height: 100vh;
+    background: #9c0303;
+}
+
+nav{
+    display: flex;
+    width: 84%;
+    margin: auto;
+    /* padding: 20px 0; */
+    align-items: center;
+    justify-content: space-between;
+}
+
+nav ul li{
+    display: inline-block;
+    list-style: none;
+    margin: 10px 20px;
+}
+
+nav ul li a{
+    text-decoration: none;
+    color: rgb(250, 249, 249);
+    font-weight: bold;
+}
+
+nav ul li a:hover{
+    color: red;
+}
+
+.logo{
+    margin-left: 0%;
+    width: auto;
+    height: 80px;
+}
+/* TOP END */
+.bass{
+    margin-left: 150px;
+    margin-right: 150px;
+    background-color: rgb(4, 4, 4);
+}
+    
+.two{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    justify-content: space-between;
+}
+.onee{
+    background-color: green;
+    color: white;
+    font-size: 80px;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.two{
+    color: rgb(5, 108, 12);
+    font-size: 15px;
+    margin-top: 0%;
+    margin-bottom: 3px; 
+    margin-left: 40px;
+}
+
+.ttwo input{
+    margin-top: 55px;
+    margin-bottom: 0%;
+    color: #9c0303;
+    background-color: azure;
+}
+
+.h3{
+    margin-top: 0%;
+}
+
+.two input{
+    width: 400px;
+    height: 30px;
+    margin-bottom: 0%;
+    color: #9c0303;
+    background-color: azure;
+ 
+}
+.two9 input{
+    width: 400px;
+    height: 30px;
+    margin-bottom: 0%;
+    color: #9c0303;
+    background-color: azure;
+ 
+}
+
+.twoo{
+    color: rgb(5, 108, 12);
+    font-size: 15px;
+    margin-top: 0%;
+    margin-bottom: 3px; 
+    margin-left: 40px;
+ 
+}
+
+.twoo input{
+    width: 860px;
+    height: 30px;
+    margin-bottom: 0%;
+    color: #9c0303;
+    background-color: azure;
+}
+.two1 input{
+    width: 860px;
+    height: 30px;
+    margin-bottom: 0%;
+    color: #9c0303;
+    background-color: azure;
+}
+
+.twoo0{
+    color: rgb(5, 108, 12);
+    font-size: 15px;
+    margin-top: 0%;
+    margin-bottom: 3px; 
+    margin-left: 40px;
+}
+
+.twoo0 input{
+    width: 860px;
+    height: 130px;
+    margin-bottom: 0%;
+    color: #9c0303;
+    background-color: azure;
+}
+
