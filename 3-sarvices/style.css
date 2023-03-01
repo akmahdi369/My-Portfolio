@@ -1,3 +1,22 @@
+*{
+    margin-top: 5px;
+   }
+
+.s-1{
+    font-style: bold;
+    font-size: 70px;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    color: #fdfcfd;
+
+}
+
+marquee {
+    width: 100%;
+    padding: 50px 0;
+    background-color: rgb(2, 32, 42);
+  }
+
 .one{
     position:relative;
     width: 100%;
@@ -34,4 +53,33 @@ nav ul li a:hover{
     margin-left: 0%;
     width: auto;
     height: 80px;
+    margin-bottom: 0%;
+}
+/* end hiro sec */
+
+/* hardware service */
+.ps{
+    background-color: rgb(251, 253, 253);
+    margin-top: 0%;
+}
+.sp{
+    margin-left: 50px;
+    background-color: rgb(252, 252, 252);
+}
+
+.sp-2{
+    font-size: 40px;
+    color: rgb(62, 2, 40);
+    margin-top: 0%;
+}
+.sp-3{
+    margin-left: 80px;
+    color: rgb(5, 62, 38);
+    font-size: 20px;
+    margin-bottom: 10PX;
+}
+
+.futter{
+    width: 1263px;
+    height: 500px;
 }

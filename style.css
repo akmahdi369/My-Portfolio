@@ -45,6 +45,47 @@ nav ul li a:hover{
     height: 80px;
 }
 
+
+
+.hero{
+    height: 100vh;
+    background: url('0-image/nature-wallpaper-175.jpg');
+    background-position:center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.hero .content{
+    height: 200px;
+    width: 100%;
+    text-align: center
+}
+.hero h1{
+    font-size: 500%;
+}
+.hero h3{
+    font-size: 200%;
+}
+.hero button{
+    padding: 10px 40px;
+    margin-top: 10px;
+    text-transform: uppercase;
+    background: linear-gradient(to left, tomato, red);
+    color: white;
+    border: 1px solid tomato;
+    border-radius: 5px;
+    font-size: 100%;
+    cursor: pointer;
+
+}
+.hero button:hover{
+    background: linear-gradient(to left, red, tomato);
+}
+
 .two{
     margin-left: 8%;
     margin-top: 15%;
@@ -74,5 +115,9 @@ span{
 .four{
     width: auto;
     height: 400px;
-    margin-top: 0%;
+    margin-top: 110%;
+    display: block;
+    
 }
+
+

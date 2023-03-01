@@ -1,5 +1,6 @@
 *{
     background-color: #030303;
+    font-family: sans-serif;
     
 }
 .one{
@@ -133,5 +134,12 @@ nav ul li a:hover{
     margin-bottom: 0%;
     color: #9c0303;
     background-color: azure;
+}
+
+.btn{
+    color: rgb(254, 254, 254);
+    background-color: rgb(34, 3, 85);
+    font-size: 20px;
+    font-style: bold;
 }
 
